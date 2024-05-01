@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Conjuntos de casillas","order":2,"path":"folders/Conjuntos de casillas.yy",},
+    {"name":"Curvas de animación","order":12,"path":"folders/Curvas de animación.yy",},
+    {"name":"Extensiones","order":14,"path":"folders/Extensiones.yy",},
+    {"name":"Fuentes","order":7,"path":"folders/Fuentes.yy",},
+    {"name":"Líneas temporales","order":8,"path":"folders/Líneas temporales.yy",},
+    {"name":"Notas","order":13,"path":"folders/Notas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Rutas","order":4,"path":"folders/Rutas.yy",},
+    {"name":"Salas","order":10,"path":"folders/Salas.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Secuencias","order":11,"path":"folders/Secuencias.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}
