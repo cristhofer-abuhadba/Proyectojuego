@@ -30,11 +30,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"Knight's Dragonfire",
   "resources":[
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
