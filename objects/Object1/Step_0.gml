@@ -10,6 +10,8 @@ v_move = down - up;
 x += h_move * velocidad;
 y += v_move* velocidad;
 
+
+
 if (run= false){
         
 velocidad=4;
