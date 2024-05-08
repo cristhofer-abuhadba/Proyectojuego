@@ -34,8 +34,8 @@
   },
   "name":"Knight's Dragonfire",
   "resources":[
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},

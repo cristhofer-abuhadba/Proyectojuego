@@ -7,3 +7,5 @@ velocidad=0;
 
 h_move=0;
 v_move=0;
+
+colision= velocidad + 2;
