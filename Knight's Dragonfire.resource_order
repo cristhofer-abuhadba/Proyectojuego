@@ -7,6 +7,7 @@
     {"name":"Líneas temporales","order":8,"path":"folders/Líneas temporales.yy",},
     {"name":"Notas","order":13,"path":"folders/Notas.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"camara","order":4,"path":"folders/Objetos/camara.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Rutas","order":4,"path":"folders/Rutas.yy",},
     {"name":"Salas","order":10,"path":"folders/Salas.yy",},
@@ -17,6 +18,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_camara","order":1,"path":"objects/obj_camara/obj_camara.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
