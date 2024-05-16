@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"seleccion",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"seleccion9",
+  "eventList":[],
   "managed":true,
-  "name":"seleccion",
+  "name":"seleccion9",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Enano",
-    "path":"sprites/Enano/Enano.yy",
+    "name":"huamano",
+    "path":"sprites/huamano/huamano.yy",
   },
   "spriteMaskId":{
     "name":"Enano",
