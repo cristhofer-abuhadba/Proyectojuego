@@ -29,9 +29,9 @@
     {"name":"seleccion910","order":2,"path":"objects/seleccion910/seleccion910.yy",},
     {"name":"variables_globales","order":6,"path":"objects/variables_globales/variables_globales.yy",},
     {"name":"Menu","order":1,"path":"rooms/Menu/Menu.yy",},
-    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Elfo","order":5,"path":"sprites/Elfo/Elfo.yy",},
     {"name":"Enano","order":2,"path":"sprites/Enano/Enano.yy",},
     {"name":"huamano","order":4,"path":"sprites/huamano/huamano.yy",},
-    {"name":"Elfo","order":5,"path":"sprites/Elfo/Elfo.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
 }
