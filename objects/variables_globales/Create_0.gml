@@ -1,1 +1,2 @@
-global.camaroa=obj_player;
+global.playerSelect="";
+

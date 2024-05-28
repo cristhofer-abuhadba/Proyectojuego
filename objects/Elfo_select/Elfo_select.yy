@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"seleccion",
+  "%Name":"Elfo_select",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"seleccion",
+  "name":"Elfo_select",
   "overriddenProperties":[],
   "parent":{
     "name":"Menu",
@@ -31,12 +31,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Enano",
-    "path":"sprites/Enano/Enano.yy",
+    "name":"Elfo",
+    "path":"sprites/Elfo/Elfo.yy",
   },
   "spriteMaskId":{
-    "name":"Enano",
-    "path":"sprites/Enano/Enano.yy",
+    "name":"Elfo",
+    "path":"sprites/Elfo/Elfo.yy",
   },
   "visible":true,
 }
