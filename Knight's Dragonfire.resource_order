@@ -30,9 +30,16 @@
     {"name":"selecionado","order":3,"path":"objects/selecionado/selecionado.yy",},
     {"name":"variables_globales","order":6,"path":"objects/variables_globales/variables_globales.yy",},
     {"name":"Menu","order":1,"path":"rooms/Menu/Menu.yy",},
+<<<<<<< Updated upstream
     {"name":"Elfo","order":2,"path":"sprites/Elfo/Elfo.yy",},
     {"name":"Enano","order":5,"path":"sprites/Enano/Enano.yy",},
     {"name":"humano","order":4,"path":"sprites/humano/humano.yy",},
+=======
+    {"name":"Elfo","order":1,"path":"sprites/Elfo/Elfo.yy",},
+    {"name":"Enano","order":2,"path":"sprites/Enano/Enano.yy",},
+    {"name":"huamano","order":4,"path":"sprites/huamano/huamano.yy",},
+>>>>>>> Stashed changes
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
