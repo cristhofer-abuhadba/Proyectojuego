@@ -41,7 +41,7 @@
   "origin":0,
   "parent":{
     "name":"Razas",
-    "path":"folders/Sprites/Razas.yy",
+    "path":"folders/Sprites/Player/Walk/Razas.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
