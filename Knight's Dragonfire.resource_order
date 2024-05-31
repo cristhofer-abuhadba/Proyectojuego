@@ -27,6 +27,7 @@
     {"name":"Spr_Bloque_05","order":4,"path":"sprites/Spr_Bloque_05/Spr_Bloque_05.yy",},
     {"name":"Spr_Bloque_06","order":5,"path":"sprites/Spr_Bloque_06/Spr_Bloque_06.yy",},
     {"name":"Spr_Bloque_07","order":6,"path":"sprites/Spr_Bloque_07/Spr_Bloque_07.yy",},
+    {"name":"Sprite1_1","order":11,"path":"sprites/Sprite1_1/Sprite1_1.yy",},
     {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
