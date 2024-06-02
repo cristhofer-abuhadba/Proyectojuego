@@ -1,5 +1,8 @@
 {
   "FolderOrderSettings":[
+    {"name":"HUD","order":1,"path":"folders/Objetos/camara/HUD.yy",},
+    {"name":"GUI","order":12,"path":"folders/Sprites/GUI.yy",},
+    {"name":"Vida","order":1,"path":"folders/Sprites/GUI/Vida.yy",},
     {"name":"Maps","order":10,"path":"folders/Sprites/Maps.yy",},
     {"name":"Bosque_encantado","order":6,"path":"folders/Sprites/Maps/Bosque_encantado.yy",},
     {"name":"Bloques","order":1,"path":"folders/Sprites/Maps/Bosque_encantado/Bloques.yy",},
@@ -17,6 +20,7 @@
     {"name":"Razas","order":1,"path":"folders/Sprites/Player/Walk/Razas.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"mata","order":1,"path":"objects/mata/mata.yy",},
     {"name":"Elfo","order":8,"path":"sprites/Elfo/Elfo.yy",},
     {"name":"Enano","order":4,"path":"sprites/Enano/Enano.yy",},
     {"name":"humano","order":1,"path":"sprites/humano/humano.yy",},
