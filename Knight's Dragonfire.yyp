@@ -101,6 +101,7 @@
     {"id":{"name":"SpriteVida","path":"sprites/SpriteVida/SpriteVida.yy",},},
     {"id":{"name":"TileSet_03","path":"tilesets/TileSet_03/TileSet_03.yy",},},
     {"id":{"name":"TileSet_04","path":"tilesets/TileSet_04/TileSet_04.yy",},},
+    {"id":{"name":"TileSet_05","path":"tilesets/TileSet_05/TileSet_05.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

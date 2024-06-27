@@ -42,5 +42,6 @@
     {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"TileSet_04","order":1,"path":"tilesets/TileSet_04/TileSet_04.yy",},
+    {"name":"TileSet_05","order":2,"path":"tilesets/TileSet_05/TileSet_05.yy",},
   ],
 }
