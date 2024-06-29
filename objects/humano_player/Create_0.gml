@@ -10,5 +10,5 @@ v_move=0;
 
 colision= velocidad + 2;
 
-VidaMaxima=20;
+VidaMaxima=30;
 CantidadVida = VidaMaxima;

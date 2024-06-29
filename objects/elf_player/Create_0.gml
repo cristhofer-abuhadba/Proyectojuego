@@ -5,10 +5,11 @@ down=0;
 run=0;
 velocidad=0;
 
-h_move=0;
-v_move=0;
+
+h_move = 0;
+v_move = 0;
 
 colision= velocidad + 2;
 
-VidaMaxima=20;
+VidaMaxima=30;
 CantidadVida = VidaMaxima;

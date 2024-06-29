@@ -40,8 +40,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Razas",
-    "path":"folders/Sprites/Player/Walk/Razas.yy",
+    "name":"elfo",
+    "path":"folders/Sprites/razas/elfo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

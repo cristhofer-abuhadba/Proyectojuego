@@ -4,7 +4,6 @@
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"mata","path":"objects/mata/mata.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"elf_player",
@@ -13,7 +12,10 @@
     "name":"Player",
     "path":"folders/Objetos/Player.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"madre",
+    "path":"objects/madre/madre.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SPRelforun",
-    "path":"sprites/SPRelforun/SPRelforun.yy",
+    "name":"sprelfo",
+    "path":"sprites/sprelfo/sprelfo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
