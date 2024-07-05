@@ -2,6 +2,7 @@
   "FolderOrderSettings":[
     {"name":"HUD","order":1,"path":"folders/Objetos/camara/HUD.yy",},
     {"name":"GUI","order":9,"path":"folders/Sprites/GUI.yy",},
+    {"name":"stamina","order":2,"path":"folders/Sprites/GUI/stamina.yy",},
     {"name":"Vida","order":1,"path":"folders/Sprites/GUI/Vida.yy",},
     {"name":"Maps","order":7,"path":"folders/Sprites/Maps.yy",},
     {"name":"Artico","order":8,"path":"folders/Sprites/Maps/Artico.yy",},
