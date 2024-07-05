@@ -30,6 +30,7 @@
     {"$GMFolder":"","%Name":"Sonidos","folderPath":"folders/Sonidos.yy","name":"Sonidos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GUI","folderPath":"folders/Sprites/GUI.yy","name":"GUI","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"stamina","folderPath":"folders/Sprites/GUI/stamina.yy","name":"stamina","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Vida","folderPath":"folders/Sprites/GUI/Vida.yy","name":"Vida","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Maps","folderPath":"folders/Sprites/Maps.yy","name":"Maps","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Artico","folderPath":"folders/Sprites/Maps/Artico.yy","name":"Artico","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -55,7 +56,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -101,6 +102,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
+    {"id":{"name":"SpriteStamina","path":"sprites/SpriteStamina/SpriteStamina.yy",},},
     {"id":{"name":"SpriteVida","path":"sprites/SpriteVida/SpriteVida.yy",},},
     {"id":{"name":"TileSet_00","path":"tilesets/TileSet_00/TileSet_00.yy",},},
     {"id":{"name":"TileSet_03","path":"tilesets/TileSet_03/TileSet_03.yy",},},

@@ -11,8 +11,11 @@ v_move = 0;
 
 if (!run) {
     velocidad = 4;
+	 CantidadEstamina++ 
 } else {
+	
     velocidad = 8;
+	CantidadEstamina--
 }
 
 
