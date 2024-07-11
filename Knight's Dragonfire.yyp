@@ -55,7 +55,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -102,6 +102,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
+    {"id":{"name":"SpriteStamina","path":"sprites/SpriteStamina/SpriteStamina.yy",},},
     {"id":{"name":"SpriteVida","path":"sprites/SpriteVida/SpriteVida.yy",},},
     {"id":{"name":"TileSet_00","path":"tilesets/TileSet_00/TileSet_00.yy",},},
     {"id":{"name":"TileSet_02","path":"tilesets/TileSet_02/TileSet_02.yy",},},

@@ -47,6 +47,7 @@
     {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite25","order":1,"path":"sprites/Sprite25/Sprite25.yy",},
+    {"name":"SpriteStamina","order":2,"path":"sprites/SpriteStamina/SpriteStamina.yy",},
     {"name":"TileSet_00","order":3,"path":"tilesets/TileSet_00/TileSet_00.yy",},
     {"name":"TileSet_02","order":4,"path":"tilesets/TileSet_02/TileSet_02.yy",},
     {"name":"TileSet_04","order":1,"path":"tilesets/TileSet_04/TileSet_04.yy",},

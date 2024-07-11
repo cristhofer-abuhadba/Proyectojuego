@@ -9,15 +9,14 @@ y += v_move * velocidad;
 h_move = 0;
 v_move = 0;
 
-if (!run) {
+if (!run)   {
     velocidad = 4;
-	 CantidadEstamina++ 
-} else {
+	
+} else  {
 	
     velocidad = 8;
-	CantidadEstamina--
+	
 }
-
 
 
 
@@ -43,10 +42,24 @@ if (h_move != 0 || v_move != 0) {
     }
     if (!run) {
         image_speed = 1;
-    } else {
+}
+		
+		else if (CantidadEstamina>0){
+		CantidadEstamina-=1;
+  
         image_speed = 2;
     }
 } else {
     sprite_index = sprelfo; 
     image_speed = 0.5;
+	CantidadEstamina+=0.35;
 }
+
+if (CantidadEstamina>30){
+	CantidadEstamina=30;
+	
+	}
+	if (CantidadEstamina<0){
+	CantidadEstamina=0;
+	
+	}
