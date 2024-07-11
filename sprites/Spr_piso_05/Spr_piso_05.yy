@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"36cb5fb2-96e3-4079-a318-540543b31fb5","name":"36cb5fb2-96e3-4079-a318-540543b31fb5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"dfe74e7f-00ee-4579-b594-1c5994306137","name":"dfe74e7f-00ee-4579-b594-1c5994306137","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"787cc823-57c2-425a-a7e9-bedef83bba32","blendMode":0,"displayName":"default","isLocked":false,"name":"787cc823-57c2-425a-a7e9-bedef83bba32","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"09266c71-f84c-403c-992b-3965bc965bcd","blendMode":0,"displayName":"default","isLocked":false,"name":"09266c71-f84c-403c-992b-3965bc965bcd","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Spr_piso_05",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Ruinas",
-    "path":"folders/Sprites/Maps/Ruinas.yy",
+    "name":"Infierno",
+    "path":"folders/Sprites/Maps/Infierno.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"36cb5fb2-96e3-4079-a318-540543b31fb5","path":"sprites/Spr_piso_05/Spr_piso_05.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9d2636c6-b60c-4c13-b3fe-73fe4cd6280b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dfe74e7f-00ee-4579-b594-1c5994306137","path":"sprites/Spr_piso_05/Spr_piso_05.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"02f430c6-8436-45b4-88f5-81638eaee810","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
