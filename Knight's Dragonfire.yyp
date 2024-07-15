@@ -55,7 +55,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.6.1.160",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -91,6 +91,7 @@
     {"id":{"name":"Spr_piso_04","path":"sprites/Spr_piso_04/Spr_piso_04.yy",},},
     {"id":{"name":"Spr_piso_05","path":"sprites/Spr_piso_05/Spr_piso_05.yy",},},
     {"id":{"name":"Spr_piso_06","path":"sprites/Spr_piso_06/Spr_piso_06.yy",},},
+    {"id":{"name":"Spr_piso_07","path":"sprites/Spr_piso_07/Spr_piso_07.yy",},},
     {"id":{"name":"sprelfo","path":"sprites/sprelfo/sprelfo.yy",},},
     {"id":{"name":"SPRelfoleft","path":"sprites/SPRelfoleft/SPRelfoleft.yy",},},
     {"id":{"name":"SPRelforun","path":"sprites/SPRelforun/SPRelforun.yy",},},
@@ -111,6 +112,7 @@
     {"id":{"name":"TileSet_04","path":"tilesets/TileSet_04/TileSet_04.yy",},},
     {"id":{"name":"TileSet_05","path":"tilesets/TileSet_05/TileSet_05.yy",},},
     {"id":{"name":"TileSet_06","path":"tilesets/TileSet_06/TileSet_06.yy",},},
+    {"id":{"name":"TileSet_07","path":"tilesets/TileSet_07/TileSet_07.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
