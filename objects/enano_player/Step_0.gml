@@ -1,3 +1,4 @@
+
 right = keyboard_check(ord("D"));
 left = keyboard_check(ord("A"));
 up = keyboard_check(ord("W"));
@@ -9,12 +10,14 @@ y += v_move * velocidad;
 h_move = 0;
 v_move = 0;
 
-if (!run) {
+if (!run)   {
     velocidad = 4;
-} else {
+	
+} else  {
+	
     velocidad = 8;
+	
 }
-
 
 
 
@@ -34,16 +37,32 @@ if (down && place_free(x, y + colision * 2)) {
 
 if (h_move != 0 || v_move != 0) {
     if (h_move == -1) {
-        sprite_index = SPRenanoleft; 
+        sprite_index =SPRenanoleft; 
     } else {
-        sprite_index =SPRenanorun; 
+        sprite_index = SPRenanorun; 
     }
     if (!run) {
         image_speed = 1;
-    } else {
+}
+		
+		else if (CantidadEstamina>0){
+		CantidadEstamina-=1;
+  
         image_speed = 2;
     }
 } else {
     sprite_index = Sprite1; 
     image_speed = 0.5;
+	CantidadEstamina+=0.35;
 }
+
+if (CantidadEstamina>30){
+	CantidadEstamina=30;
+	
+	}
+	if (CantidadEstamina<0){
+	CantidadEstamina=0;
+	
+	}
+
+

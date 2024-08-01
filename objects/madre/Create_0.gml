@@ -14,6 +14,5 @@ colision= velocidad + 2;
 VidaMaxima=30;
 CantidadVida = VidaMaxima;
 
-EstaminaMaxima=60;
+EstaminaMaxima=30;
 CantidadEstamina = EstaminaMaxima;
-
