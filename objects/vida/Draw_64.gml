@@ -1,9 +1,6 @@
-
-
-draw_sprite_stretched(SpriteVida,1,10,10,numLeght,7);
-draw_sprite_stretched(SpriteVida,0,10,10,numGauge,7);
-
-
+for(var i = 0; i < madre.CantidadVida; i++){
+	draw_sprite(SpriteVida, 0, 2+2 * i, 8);
+}
 
 
 draw_sprite_stretched(SpriteStamina,1,10,20,numLeghtestamina,1);
