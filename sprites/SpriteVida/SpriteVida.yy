@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"SpriteVida",
   "bboxMode":0,
-  "bbox_bottom":6,
+  "bbox_bottom":31,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":15,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -17,7 +17,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":7,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"d649aa5f-47bd-4afd-bffa-389dba94221c","blendMode":0,"displayName":"default","isLocked":false,"name":"d649aa5f-47bd-4afd-bffa-389dba94221c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -90,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1,
+  "width":16,
 }
