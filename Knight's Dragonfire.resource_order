@@ -43,6 +43,7 @@
     {"name":"sprelfo","order":1,"path":"sprites/sprelfo/sprelfo.yy",},
     {"name":"SPRelfoleft","order":3,"path":"sprites/SPRelfoleft/SPRelfoleft.yy",},
     {"name":"SPRelforun","order":2,"path":"sprites/SPRelforun/SPRelforun.yy",},
+    {"name":"SPRenano","order":3,"path":"sprites/SPRenano/SPRenano.yy",},
     {"name":"SPRenanoleft","order":2,"path":"sprites/SPRenanoleft/SPRenanoleft.yy",},
     {"name":"SPRenanorun","order":1,"path":"sprites/SPRenanorun/SPRenanorun.yy",},
     {"name":"sprhuman","order":1,"path":"sprites/sprhuman/sprhuman.yy",},
