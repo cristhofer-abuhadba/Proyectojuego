@@ -103,6 +103,7 @@
     {"id":{"name":"sprhuman","path":"sprites/sprhuman/sprhuman.yy",},},
     {"id":{"name":"sprhumanleft","path":"sprites/sprhumanleft/sprhumanleft.yy",},},
     {"id":{"name":"sprhumanrun","path":"sprites/sprhumanrun/sprhumanrun.yy",},},
+    {"id":{"name":"sprhumantr","path":"sprites/sprhumantr/sprhumantr.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},},
