@@ -51,7 +51,7 @@ if (h_move != 0 || v_move != 0) {
         image_speed = 2;
     }
 } else {
-    sprite_index = Sprite1; 
+    sprite_index = SPRenano; 
     image_speed = 0.5;
 	CantidadEstamina+=0.35;
 }

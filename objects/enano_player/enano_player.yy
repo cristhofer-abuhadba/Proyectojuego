@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"SPRenano",
+    "path":"sprites/SPRenano/SPRenano.yy",
   },
   "spriteMaskId":null,
   "visible":true,
