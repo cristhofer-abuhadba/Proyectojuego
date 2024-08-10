@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"sprhumanleft",
-  "bboxMode":0,
-  "bbox_bottom":109,
+  "bboxMode":2,
+  "bbox_bottom":112,
   "bbox_left":12,
-  "bbox_right":61,
+  "bbox_right":54,
   "bbox_top":18,
   "collisionKind":1,
   "collisionTolerance":0,

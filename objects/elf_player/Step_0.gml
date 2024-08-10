@@ -1,4 +1,4 @@
-// Inicialización de variables
+
 right = 0;
 left = 0;
 up = 0;
@@ -11,8 +11,6 @@ v_move = 0;
 
 colision = velocidad + 2;
 
-VidaMaxima = 30;
-CantidadVida = VidaMaxima;
 
 right = keyboard_check(ord("D"));
 left = keyboard_check(ord("A"));
@@ -20,11 +18,11 @@ up = keyboard_check(ord("W"));
 down = keyboard_check(ord("S"));
 run = keyboard_check(vk_shift);
 
-// Movimiento del personaje
+
 h_move = 0;
 v_move = 0;
 
-// Ajuste de velocidad
+
 if (run && CantidadEstamina > 0) {
     velocidad = 8;
 } else {
@@ -67,10 +65,10 @@ if (h_move != 0 || v_move != 0) {
     image_speed = 0.5;
 }
 
-// Regeneración de estamina cuando no se corre
+
 if (velocidad == 4) {
     CantidadEstamina += 0.35;
 }
 
-// Asegurar que la estamina esté dentro de los límites
-CantidadEstamina = clamp(CantidadEstamina, 0, EstaminaMaxima);
+
+CantidadEstamina = clamp(CantidadEstamina, -1, EstaminaMaxima);

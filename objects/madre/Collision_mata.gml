@@ -1,2 +1,5 @@
-if (CantidadVida > -1) CantidadVida--;
-else room_goto(Menu);
+if (CantidadVida > 0) {
+    CantidadVida--;
+} else {
+    room_goto(Menu); 
+}
