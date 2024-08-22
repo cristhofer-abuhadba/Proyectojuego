@@ -1,8 +1,8 @@
 {
   "$GMSprite":"",
   "%Name":"SPRelfoleft",
-  "bboxMode":0,
-  "bbox_bottom":109,
+  "bboxMode":2,
+  "bbox_bottom":107,
   "bbox_left":8,
   "bbox_right":57,
   "bbox_top":16,

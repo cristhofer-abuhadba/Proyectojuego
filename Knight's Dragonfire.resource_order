@@ -26,6 +26,7 @@
     {"name":"madre","order":1,"path":"objects/madre/madre.yy",},
     {"name":"mata","order":1,"path":"objects/mata/mata.yy",},
     {"name":"obj_hostil","order":2,"path":"objects/obj_hostil/obj_hostil.yy",},
+    {"name":"pantallcompleta","order":3,"path":"objects/pantallcompleta/pantallcompleta.yy",},
     {"name":"Spr_bloque_00","order":7,"path":"sprites/Spr_bloque_00/Spr_bloque_00.yy",},
     {"name":"Spr_bloque_02","order":1,"path":"sprites/Spr_bloque_02/Spr_bloque_02.yy",},
     {"name":"Spr_Bloque_03","order":2,"path":"sprites/Spr_Bloque_03/Spr_Bloque_03.yy",},

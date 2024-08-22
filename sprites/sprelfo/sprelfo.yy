@@ -1,8 +1,8 @@
 {
   "$GMSprite":"",
   "%Name":"sprelfo",
-  "bboxMode":0,
-  "bbox_bottom":109,
+  "bboxMode":2,
+  "bbox_bottom":107,
   "bbox_left":10,
   "bbox_right":51,
   "bbox_top":16,
