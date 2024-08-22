@@ -25,6 +25,7 @@
   "ResourceOrderSettings":[
     {"name":"madre","order":1,"path":"objects/madre/madre.yy",},
     {"name":"mata","order":1,"path":"objects/mata/mata.yy",},
+    {"name":"obj_hostil","order":2,"path":"objects/obj_hostil/obj_hostil.yy",},
     {"name":"Spr_bloque_00","order":7,"path":"sprites/Spr_bloque_00/Spr_bloque_00.yy",},
     {"name":"Spr_bloque_02","order":1,"path":"sprites/Spr_bloque_02/Spr_bloque_02.yy",},
     {"name":"Spr_Bloque_03","order":2,"path":"sprites/Spr_Bloque_03/Spr_Bloque_03.yy",},
@@ -32,6 +33,7 @@
     {"name":"Spr_Bloque_05","order":4,"path":"sprites/Spr_Bloque_05/Spr_Bloque_05.yy",},
     {"name":"Spr_Bloque_06","order":5,"path":"sprites/Spr_Bloque_06/Spr_Bloque_06.yy",},
     {"name":"Spr_Bloque_07","order":6,"path":"sprites/Spr_Bloque_07/Spr_Bloque_07.yy",},
+    {"name":"Spr_hostil","order":12,"path":"sprites/Spr_hostil/Spr_hostil.yy",},
     {"name":"Spr_piso_01","order":2,"path":"sprites/Spr_piso_01/Spr_piso_01.yy",},
     {"name":"Spr_piso_02","order":1,"path":"sprites/Spr_piso_02/Spr_piso_02.yy",},
     {"name":"Spr_piso_03","order":2,"path":"sprites/Spr_piso_03/Spr_piso_03.yy",},
