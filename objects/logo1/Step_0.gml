@@ -1,3 +1,4 @@
+
 if(timer == 0){
 	audio_play_sound(snd_whoosh,0,false);
 }
@@ -25,6 +26,7 @@ if(state == 0){
 		
 		room_goto(Menu);
 		timer = 0;
+		
 	}
 }
 
