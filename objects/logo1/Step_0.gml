@@ -1,4 +1,5 @@
 
+
 if(timer == 0){
 	audio_play_sound(snd_whoosh,0,false);
 }
@@ -22,7 +23,10 @@ if(state == 0){
 		image_alpha = fade;
 		
 	}
-	if(timer > 400){
+	
+	
+	
+	if(timer > 810){
 		
 		room_goto(Menu);
 		timer = 0;

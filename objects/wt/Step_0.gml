@@ -8,7 +8,7 @@ timer++;
 		transition+= 0.02;
 		image_alpha = transition;
 		
-		if(timer > 170){
+		if(timer > 240){
 		timer = 0;
 		
 		room_goto(character_menu);

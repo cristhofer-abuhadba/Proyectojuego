@@ -58,7 +58,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -68,6 +68,7 @@
     {"id":{"name":"Elfo_select","path":"objects/Elfo_select/Elfo_select.yy",},},
     {"id":{"name":"enano_player","path":"objects/enano_player/enano_player.yy",},},
     {"id":{"name":"Enano_select","path":"objects/Enano_select/Enano_select.yy",},},
+    {"id":{"name":"gklogo","path":"objects/gklogo/gklogo.yy",},},
     {"id":{"name":"humano_player","path":"objects/humano_player/humano_player.yy",},},
     {"id":{"name":"Humano_select","path":"objects/Humano_select/Humano_select.yy",},},
     {"id":{"name":"logo1","path":"objects/logo1/logo1.yy",},},
@@ -91,6 +92,7 @@
     {"id":{"name":"snd_breaking","path":"sounds/snd_breaking/snd_breaking.yy",},},
     {"id":{"name":"snd_door_opening","path":"sounds/snd_door_opening/snd_door_opening.yy",},},
     {"id":{"name":"snd_firesound","path":"sounds/snd_firesound/snd_firesound.yy",},},
+    {"id":{"name":"snd_glitch_gm","path":"sounds/snd_glitch_gm/snd_glitch_gm.yy",},},
     {"id":{"name":"snd_slash","path":"sounds/snd_slash/snd_slash.yy",},},
     {"id":{"name":"snd_whoosh","path":"sounds/snd_whoosh/snd_whoosh.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
@@ -107,6 +109,7 @@
     {"id":{"name":"Spr_Bloque_05","path":"sprites/Spr_Bloque_05/Spr_Bloque_05.yy",},},
     {"id":{"name":"Spr_Bloque_06","path":"sprites/Spr_Bloque_06/Spr_Bloque_06.yy",},},
     {"id":{"name":"Spr_Bloque_07","path":"sprites/Spr_Bloque_07/Spr_Bloque_07.yy",},},
+    {"id":{"name":"spr_gamemakerlogo","path":"sprites/spr_gamemakerlogo/spr_gamemakerlogo.yy",},},
     {"id":{"name":"Spr_hostil","path":"sprites/Spr_hostil/Spr_hostil.yy",},},
     {"id":{"name":"spr_intro_door","path":"sprites/spr_intro_door/spr_intro_door.yy",},},
     {"id":{"name":"Spr_lucasgames","path":"sprites/Spr_lucasgames/Spr_lucasgames.yy",},},
