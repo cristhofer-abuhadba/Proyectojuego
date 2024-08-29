@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Elfo_select",
+  "%Name":"ObjInventario",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Elfo_select",
+  "name":"ObjInventario",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu",
-    "path":"folders/Objetos/Menu.yy",
+    "name":"camara",
+    "path":"folders/Objetos/camara.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,14 +29,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"Elfo",
-    "path":"sprites/Elfo/Elfo.yy",
-  },
-  "spriteMaskId":{
-    "name":"Elfo",
-    "path":"sprites/Elfo/Elfo.yy",
-  },
+  "solid":false,
+  "spriteId":null,
+  "spriteMaskId":null,
   "visible":true,
 }
