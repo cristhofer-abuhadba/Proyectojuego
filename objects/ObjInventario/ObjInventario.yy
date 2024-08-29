@@ -1,20 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"logo1",
+  "%Name":"ObjInventario",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-<<<<<<< HEAD
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-=======
->>>>>>> f6548098aa37ece75fe797587e44d076796fc548
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"logo1",
+  "name":"ObjInventario",
   "overriddenProperties":[],
   "parent":{
-    "name":"introobj",
-    "path":"folders/Objetos/introobj.yy",
+    "name":"camara",
+    "path":"folders/Objetos/camara.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -34,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_lucasgames",
-    "path":"sprites/Spr_lucasgames/Spr_lucasgames.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
