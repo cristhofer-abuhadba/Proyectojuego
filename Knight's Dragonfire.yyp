@@ -89,6 +89,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
     {"id":{"name":"snd_breaking","path":"sounds/snd_breaking/snd_breaking.yy",},},
+    {"id":{"name":"snd_door_opening","path":"sounds/snd_door_opening/snd_door_opening.yy",},},
     {"id":{"name":"snd_firesound","path":"sounds/snd_firesound/snd_firesound.yy",},},
     {"id":{"name":"snd_slash","path":"sounds/snd_slash/snd_slash.yy",},},
     {"id":{"name":"snd_whoosh","path":"sounds/snd_whoosh/snd_whoosh.yy",},},

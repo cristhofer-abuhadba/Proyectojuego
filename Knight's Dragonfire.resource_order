@@ -44,6 +44,7 @@
     {"name":"intro","order":2,"path":"rooms/intro/intro.yy",},
     {"name":"Menu","order":3,"path":"rooms/Menu/Menu.yy",},
     {"name":"snd_breaking","order":2,"path":"sounds/snd_breaking/snd_breaking.yy",},
+    {"name":"snd_door_opening","order":4,"path":"sounds/snd_door_opening/snd_door_opening.yy",},
     {"name":"snd_firesound","order":3,"path":"sounds/snd_firesound/snd_firesound.yy",},
     {"name":"snd_whoosh","order":1,"path":"sounds/snd_whoosh/snd_whoosh.yy",},
     {"name":"background","order":1,"path":"sprites/background/background.yy",},

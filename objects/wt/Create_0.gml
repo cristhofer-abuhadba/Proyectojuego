@@ -1,4 +1,4 @@
-duracion = 210;
+duracion = 134;
 
 timer = 0;
 

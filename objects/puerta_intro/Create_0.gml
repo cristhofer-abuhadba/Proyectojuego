@@ -1,4 +1,4 @@
-duration = 200;
+duration = 130;
 state = 0;
 timer = 0;
 
