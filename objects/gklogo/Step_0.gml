@@ -20,7 +20,10 @@ image_speed = 0;
 			fade-= 0.04;
 			
 			image_alpha = fade;
-	
+			if(timer = 800){
+			room_goto(Menu);
+			
+			}
 		} 
 
 	}

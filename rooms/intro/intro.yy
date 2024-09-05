@@ -1,23 +1,19 @@
 {
   "$GMRoom":"v1",
   "%Name":"intro",
-  "creationCodeFile":"rooms/intro/RoomCreationCode.gml",
+  "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_5F865","path":"rooms/intro/intro.yy",},
-    {"name":"inst_7C58A6BB","path":"rooms/intro/intro.yy",},
+    {"name":"inst_3D6FEF3","path":"rooms/intro/intro.yy",},
+    {"name":"inst_4F726BA4","path":"rooms/intro/intro.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-<<<<<<< HEAD
-        {"$GMRInstance":"v1","%Name":"inst_5F865","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F865","objectId":{"name":"logo1","path":"objects/logo1/logo1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.36,"scaleY":0.35999998,"x":352.0,"y":192.0,},
-        {"$GMRInstance":"v1","%Name":"inst_7C58A6BB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7C58A6BB","objectId":{"name":"gklogo","path":"objects/gklogo/gklogo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.37600002,"scaleY":0.392,"x":320.0,"y":192.0,},
-=======
-        {"$GMRInstance":"v1","%Name":"inst_5F865","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F865","objectId":{"name":"logo1","path":"objects/logo1/logo1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.39200002,"scaleY":0.392,"x":320.0,"y":192.0,},
->>>>>>> f6548098aa37ece75fe797587e44d076796fc548
+        {"$GMRInstance":"v1","%Name":"inst_3D6FEF3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3D6FEF3","objectId":{"name":"gklogo","path":"objects/gklogo/gklogo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.34399998,"scaleY":0.36,"x":352.0,"y":160.0,},
+        {"$GMRInstance":"v1","%Name":"inst_4F726BA4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F726BA4","objectId":{"name":"lucasgamesobj","path":"objects/lucasgamesobj/lucasgamesobj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.36,"scaleY":0.328,"x":352.0,"y":224.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

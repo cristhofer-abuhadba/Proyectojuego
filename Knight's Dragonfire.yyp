@@ -73,6 +73,7 @@
     {"id":{"name":"gklogo","path":"objects/gklogo/gklogo.yy",},},
     {"id":{"name":"humano_player","path":"objects/humano_player/humano_player.yy",},},
     {"id":{"name":"Humano_select","path":"objects/Humano_select/Humano_select.yy",},},
+    {"id":{"name":"lucasgamesobj","path":"objects/lucasgamesobj/lucasgamesobj.yy",},},
     {"id":{"name":"madre","path":"objects/madre/madre.yy",},},
     {"id":{"name":"mata","path":"objects/mata/mata.yy",},},
     {"id":{"name":"obj_camara","path":"objects/obj_camara/obj_camara.yy",},},
@@ -88,6 +89,7 @@
     {"id":{"name":"vida","path":"objects/vida/vida.yy",},},
     {"id":{"name":"wt","path":"objects/wt/wt.yy",},},
     {"id":{"name":"character_menu","path":"rooms/character_menu/character_menu.yy",},},
+    {"id":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
@@ -161,6 +163,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"character_menu","path":"rooms/character_menu/character_menu.yy",},},
     {"roomId":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
