@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"transitionb",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object26",
+  "eventList":[],
   "managed":true,
-  "name":"transitionb",
+  "name":"Object26",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu",
-    "path":"folders/Objetos/Menu.yy",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"white_transition",
-    "path":"sprites/white_transition/white_transition.yy",
+    "name":"Sprite54",
+    "path":"sprites/Sprite54/Sprite54.yy",
   },
   "spriteMaskId":null,
   "visible":true,

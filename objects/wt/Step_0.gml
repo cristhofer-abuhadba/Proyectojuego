@@ -11,7 +11,7 @@ timer++;
 		if(timer > 240){
 		timer = 0;
 		
-		room_goto(character_menu);
+		room_goto(Inicioo);
 		}
 	}
 

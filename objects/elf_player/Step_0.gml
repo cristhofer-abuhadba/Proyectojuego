@@ -76,5 +76,5 @@ CantidadEstamina = clamp(CantidadEstamina, -1, EstaminaMaxima);
 
 if(CantidadVida == 0){
 	show_debug_message("El personaje ha muerto. Juego pausado");
-	room_goto(character_menu);
+	room_goto(Inicioo);
 }
