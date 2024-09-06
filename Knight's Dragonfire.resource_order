@@ -50,7 +50,7 @@
     {"name":"puerta_intro","order":1,"path":"objects/puerta_intro/puerta_intro.yy",},
     {"name":"transitionb","order":3,"path":"objects/transitionb/transitionb.yy",},
     {"name":"wt","order":4,"path":"objects/wt/wt.yy",},
-    {"name":"Inicio","order":6,"path":"rooms/Inicio/Inicio.yy",},
+    {"name":"Elecc_Pers","order":6,"path":"rooms/Elecc_Pers/Elecc_Pers.yy",},
     {"name":"Inicioo","order":1,"path":"rooms/Inicioo/Inicioo.yy",},
     {"name":"intro","order":5,"path":"rooms/intro/intro.yy",},
     {"name":"Menu","order":3,"path":"rooms/Menu/Menu.yy",},

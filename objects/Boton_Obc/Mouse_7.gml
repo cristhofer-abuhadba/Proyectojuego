@@ -1,2 +1,2 @@
 
-room_goto(Inicio);
+room_goto(Elecc_Pers);

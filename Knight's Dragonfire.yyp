@@ -93,7 +93,7 @@
     {"id":{"name":"variables_globales","path":"objects/variables_globales/variables_globales.yy",},},
     {"id":{"name":"vida","path":"objects/vida/vida.yy",},},
     {"id":{"name":"wt","path":"objects/wt/wt.yy",},},
-    {"id":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
+    {"id":{"name":"Elecc_Pers","path":"rooms/Elecc_Pers/Elecc_Pers.yy",},},
     {"id":{"name":"Inicioo","path":"rooms/Inicioo/Inicioo.yy",},},
     {"id":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
@@ -178,7 +178,7 @@
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Inicioo","path":"rooms/Inicioo/Inicioo.yy",},},
     {"roomId":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
-    {"roomId":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
+    {"roomId":{"name":"Elecc_Pers","path":"rooms/Elecc_Pers/Elecc_Pers.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
