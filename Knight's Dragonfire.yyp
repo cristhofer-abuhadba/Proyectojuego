@@ -60,7 +60,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -81,7 +81,6 @@
     {"id":{"name":"obj_hostil","path":"objects/obj_hostil/obj_hostil.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Object25","path":"objects/Object25/Object25.yy",},},
-    {"id":{"name":"Object26","path":"objects/Object26/Object26.yy",},},
     {"id":{"name":"ObjInventario","path":"objects/ObjInventario/ObjInventario.yy",},},
     {"id":{"name":"pantallcompleta","path":"objects/pantallcompleta/pantallcompleta.yy",},},
     {"id":{"name":"pilares","path":"objects/pilares/pilares.yy",},},
