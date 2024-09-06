@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Object25",
-  "eventList":[],
+  "%Name":"Boton_Exit",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object25",
+  "name":"Boton_Exit",
   "overriddenProperties":[],
   "parent":{
-    "name":"Salas",
-    "path":"folders/Salas.yy",
+    "name":"Menu",
+    "path":"folders/Objetos/Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_boton_3",
+    "path":"sprites/spr_boton_3/spr_boton_3.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

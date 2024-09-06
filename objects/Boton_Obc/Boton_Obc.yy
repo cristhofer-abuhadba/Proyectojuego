@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Elfo_select",
+  "%Name":"Boton_Obc",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Elfo_select",
+  "name":"Boton_Obc",
   "overriddenProperties":[],
   "parent":{
     "name":"Menu",
@@ -29,14 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Elfo",
-    "path":"sprites/Elfo/Elfo.yy",
+    "name":"spr_boton_2",
+    "path":"sprites/spr_boton_2/spr_boton_2.yy",
   },
-  "spriteMaskId":{
-    "name":"Elfo",
-    "path":"sprites/Elfo/Elfo.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
