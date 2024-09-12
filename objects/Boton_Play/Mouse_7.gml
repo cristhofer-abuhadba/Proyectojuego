@@ -1,2 +1,2 @@
 
-room_goto(Prueba);
+room_goto(Elecc_Pers);
