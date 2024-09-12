@@ -1,15 +1,15 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet_01",
+  "%Name":"TileSet10",
   "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[1,2,3,4,5,6,7,8,11,12,13,14,15,16,17,0,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[10,1,2,3,4,5,6,10,11,12,13,14,15,10,10,10,],},
   ],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet_01",
+  "name":"TileSet10",
   "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -20,8 +20,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Spr_piso_01",
-    "path":"sprites/Spr_piso_01/Spr_piso_01.yy",
+    "name":"Spr_objetos",
+    "path":"sprites/Spr_objetos/Spr_objetos.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -30,10 +30,10 @@
   },
   "tileAnimationFrames":[],
   "tileAnimationSpeed":15.0,
-  "tileHeight":32,
+  "tileHeight":64,
   "tilehsep":0,
   "tilevsep":0,
-  "tileWidth":32,
+  "tileWidth":64,
   "tilexoff":0,
   "tileyoff":0,
   "tile_count":20,
