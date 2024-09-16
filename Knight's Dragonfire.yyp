@@ -60,7 +60,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -174,7 +174,6 @@
     {"id":{"name":"TileSet_All","path":"tilesets/TileSet_All/TileSet_All.yy",},},
     {"id":{"name":"TileSet10","path":"tilesets/TileSet10/TileSet10.yy",},},
     {"id":{"name":"TileSet11","path":"tilesets/TileSet11/TileSet11.yy",},},
-    {"id":{"name":"TileSet9","path":"tilesets/TileSet9/TileSet9.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
