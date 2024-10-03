@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"bg menus","order":13,"path":"folders/Sprites/bg menus.yy",},
     {"name":"camara","order":2,"path":"folders/Objetos/camara.yy",},
     {"name":"HUD","order":2,"path":"folders/Objetos/camara/HUD.yy",},
     {"name":"introobj","order":8,"path":"folders/Objetos/introobj.yy",},
@@ -22,7 +23,7 @@
     {"name":"Templo","order":4,"path":"folders/Sprites/Maps/Templo.yy",},
     {"name":"Bloques","order":1,"path":"folders/Sprites/Maps/Templo/Bloques.yy",},
     {"name":"Menu intro","order":8,"path":"folders/Sprites/Menu intro.yy",},
-    {"name":"objetos_spr","order":10,"path":"folders/Sprites/objetos_spr.yy",},
+    {"name":"objetos_spr","order":9,"path":"folders/Sprites/objetos_spr.yy",},
     {"name":"razas","order":5,"path":"folders/Sprites/razas.yy",},
     {"name":"elfo","order":3,"path":"folders/Sprites/razas/elfo.yy",},
     {"name":"enano","order":4,"path":"folders/Sprites/razas/enano.yy",},
@@ -72,9 +73,9 @@
     {"name":"Spr_Bloque_05","order":4,"path":"sprites/Spr_Bloque_05/Spr_Bloque_05.yy",},
     {"name":"Spr_Bloque_06","order":5,"path":"sprites/Spr_Bloque_06/Spr_Bloque_06.yy",},
     {"name":"Spr_Bloque_07","order":6,"path":"sprites/Spr_Bloque_07/Spr_Bloque_07.yy",},
-    {"name":"spr_boton_1","order":13,"path":"sprites/spr_boton_1/spr_boton_1.yy",},
-    {"name":"spr_boton_2","order":14,"path":"sprites/spr_boton_2/spr_boton_2.yy",},
-    {"name":"spr_boton_3","order":15,"path":"sprites/spr_boton_3/spr_boton_3.yy",},
+    {"name":"spr_boton_1","order":10,"path":"sprites/spr_boton_1/spr_boton_1.yy",},
+    {"name":"spr_boton_2","order":11,"path":"sprites/spr_boton_2/spr_boton_2.yy",},
+    {"name":"spr_boton_3","order":12,"path":"sprites/spr_boton_3/spr_boton_3.yy",},
     {"name":"spr_gamemakerlogo","order":6,"path":"sprites/spr_gamemakerlogo/spr_gamemakerlogo.yy",},
     {"name":"Spr_hostil","order":7,"path":"sprites/Spr_hostil/Spr_hostil.yy",},
     {"name":"Spr_lucasgames","order":7,"path":"sprites/Spr_lucasgames/Spr_lucasgames.yy",},
