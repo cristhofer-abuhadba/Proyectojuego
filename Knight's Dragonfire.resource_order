@@ -128,5 +128,6 @@
     {"name":"TileSet_All","order":7,"path":"tilesets/TileSet_All/TileSet_All.yy",},
     {"name":"TileSet10","order":8,"path":"tilesets/TileSet10/TileSet10.yy",},
     {"name":"TileSet11","order":9,"path":"tilesets/TileSet11/TileSet11.yy",},
+    {"name":"TileSet12","order":10,"path":"tilesets/TileSet12/TileSet12.yy",},
   ],
 }

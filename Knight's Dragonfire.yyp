@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -172,6 +172,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite59","path":"sprites/Sprite59/Sprite59.yy",},},
     {"id":{"name":"Sprite60","path":"sprites/Sprite60/Sprite60.yy",},},
+    {"id":{"name":"Sprite63","path":"sprites/Sprite63/Sprite63.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"SpriteStamina","path":"sprites/SpriteStamina/SpriteStamina.yy",},},
     {"id":{"name":"SpriteVida","path":"sprites/SpriteVida/SpriteVida.yy",},},
@@ -187,6 +188,7 @@
     {"id":{"name":"TileSet_All","path":"tilesets/TileSet_All/TileSet_All.yy",},},
     {"id":{"name":"TileSet10","path":"tilesets/TileSet10/TileSet10.yy",},},
     {"id":{"name":"TileSet11","path":"tilesets/TileSet11/TileSet11.yy",},},
+    {"id":{"name":"TileSet12","path":"tilesets/TileSet12/TileSet12.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
