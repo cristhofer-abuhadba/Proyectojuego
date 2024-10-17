@@ -75,6 +75,8 @@
     {"name":"snd_firesound","order":3,"path":"sounds/snd_firesound/snd_firesound.yy",},
     {"name":"snd_glitch_gm","order":5,"path":"sounds/snd_glitch_gm/snd_glitch_gm.yy",},
     {"name":"snd_whoosh","order":1,"path":"sounds/snd_whoosh/snd_whoosh.yy",},
+    {"name":"Aprete_e_1","order":3,"path":"sprites/Aprete_e_1/Aprete_e_1.yy",},
+    {"name":"Aprete_e","order":2,"path":"sprites/Aprete_e/Aprete_e.yy",},
     {"name":"background","order":1,"path":"sprites/background/background.yy",},
     {"name":"black_transition","order":4,"path":"sprites/black_transition/black_transition.yy",},
     {"name":"Fondo_Inicio","order":10,"path":"sprites/Fondo_Inicio/Fondo_Inicio.yy",},
@@ -107,8 +109,12 @@
     {"name":"Spr_piso_06","order":2,"path":"sprites/Spr_piso_06/Spr_piso_06.yy",},
     {"name":"Spr_piso_07","order":2,"path":"sprites/Spr_piso_07/Spr_piso_07.yy",},
     {"name":"Spr_piso_all","order":10,"path":"sprites/Spr_piso_all/Spr_piso_all.yy",},
+<<<<<<< HEAD
     {"name":"spr_pocion_estamina","order":1,"path":"sprites/spr_pocion_estamina/spr_pocion_estamina.yy",},
     {"name":"spr_tormenta_gelida","order":5,"path":"sprites/spr_tormenta_gelida/spr_tormenta_gelida.yy",},
+=======
+    {"name":"spr_pocion","order":1,"path":"sprites/spr_pocion/spr_pocion.yy",},
+>>>>>>> 4be953aac05e3afcd643ffd513a68e1668cde028
     {"name":"sprelfo","order":1,"path":"sprites/sprelfo/sprelfo.yy",},
     {"name":"SPRelfoleft","order":3,"path":"sprites/SPRelfoleft/SPRelfoleft.yy",},
     {"name":"SPRelforun","order":2,"path":"sprites/SPRelforun/SPRelforun.yy",},
