@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pocion",
-    "path":"sprites/spr_pocion/spr_pocion.yy",
+    "name":"spr_pocion_vida",
+    "path":"sprites/spr_pocion_vida/spr_pocion_vida.yy",
   },
   "spriteMaskId":null,
   "visible":true,
