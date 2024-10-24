@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -88,6 +88,7 @@
     {"id":{"name":"Humano_select","path":"objects/Humano_select/Humano_select.yy",},},
     {"id":{"name":"lucasgamesobj","path":"objects/lucasgamesobj/lucasgamesobj.yy",},},
     {"id":{"name":"madre","path":"objects/madre/madre.yy",},},
+    {"id":{"name":"Madreobjetos","path":"objects/Madreobjetos/Madreobjetos.yy",},},
     {"id":{"name":"mata","path":"objects/mata/mata.yy",},},
     {"id":{"name":"obj_camara","path":"objects/obj_camara/obj_camara.yy",},},
     {"id":{"name":"obj_hostil","path":"objects/obj_hostil/obj_hostil.yy",},},
@@ -162,6 +163,7 @@
     {"id":{"name":"Spr_piso_06","path":"sprites/Spr_piso_06/Spr_piso_06.yy",},},
     {"id":{"name":"Spr_piso_07","path":"sprites/Spr_piso_07/Spr_piso_07.yy",},},
     {"id":{"name":"Spr_piso_all","path":"sprites/Spr_piso_all/Spr_piso_all.yy",},},
+    {"id":{"name":"spr_pocion_1","path":"sprites/spr_pocion_1/spr_pocion_1.yy",},},
     {"id":{"name":"spr_pocion","path":"sprites/spr_pocion/spr_pocion.yy",},},
     {"id":{"name":"spr_tormenta_gelida","path":"sprites/spr_tormenta_gelida/spr_tormenta_gelida.yy",},},
     {"id":{"name":"sprelfo","path":"sprites/sprelfo/sprelfo.yy",},},

@@ -16,10 +16,13 @@ for (var i = 0; i < SloT; i++) {
 // Función agregar_al_inventario dentro de ObjInventario
 // Función agregar_al_inventario dentro de ObjInventario
 // Función en ObjInventario
+// Función agregar_al_inventario dentro de ObjInventario
 function agregar_al_inventario(objeto) {
     for (var i = 0; i < SloT; i++) {
         if (slot[i][0] == 0) { // Si el slot está vacío
             slot[i][0] = objeto.sprite_index; // Asignamos el sprite del objeto al slot
+            // Verificamos si el sprite se asignó correctamente
+            show_debug_message("Objeto agregado al inventario: " + string(objeto.sprite_index));
             instance_destroy(objeto); // Desaparece el objeto del mundo
             return;
         }
@@ -28,4 +31,5 @@ function agregar_al_inventario(objeto) {
     inventario_lleno = true;
     vibracion_timer = 20; // Inicia la vibración
 }
+
 
