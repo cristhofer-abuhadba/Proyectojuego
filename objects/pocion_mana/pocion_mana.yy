@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"tormenta_gelida",
+  "%Name":"pocion_mana",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"tormenta_gelida",
+  "name":"pocion_mana",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tormenta_gelida",
-    "path":"sprites/spr_tormenta_gelida/spr_tormenta_gelida.yy",
+    "name":"spr_pocion_mana",
+    "path":"sprites/spr_pocion_mana/spr_pocion_mana.yy",
   },
   "spriteMaskId":null,
   "visible":true,

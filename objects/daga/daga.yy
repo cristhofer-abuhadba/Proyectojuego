@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"tormenta_gelida",
+  "%Name":"daga",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"tormenta_gelida",
+  "name":"daga",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tormenta_gelida",
-    "path":"sprites/spr_tormenta_gelida/spr_tormenta_gelida.yy",
+    "name":"spr_daga",
+    "path":"sprites/spr_daga/spr_daga.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,7 +1,19 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"daga","order":2,"path":"objects/daga/daga.yy",},
+    {"name":"escudo_lethor","order":3,"path":"objects/escudo_lethor/escudo_lethor.yy",},
+    {"name":"escudo_tortuga","order":4,"path":"objects/escudo_tortuga/escudo_tortuga.yy",},
     {"name":"Madreobjetos","order":1,"path":"objects/Madreobjetos/Madreobjetos.yy",},
+    {"name":"pergamino","order":5,"path":"objects/pergamino/pergamino.yy",},
+    {"name":"pocion_mana","order":6,"path":"objects/pocion_mana/pocion_mana.yy",},
+    {"name":"rodela","order":7,"path":"objects/rodela/rodela.yy",},
+    {"name":"spr_daga","order":4,"path":"sprites/spr_daga/spr_daga.yy",},
+    {"name":"spr_escudo_lethor","order":3,"path":"sprites/spr_escudo_lethor/spr_escudo_lethor.yy",},
+    {"name":"spr_escudo_tortuga","order":2,"path":"sprites/spr_escudo_tortuga/spr_escudo_tortuga.yy",},
+    {"name":"spr_pergamino","order":5,"path":"sprites/spr_pergamino/spr_pergamino.yy",},
     {"name":"spr_pocion_1","order":1,"path":"sprites/spr_pocion_1/spr_pocion_1.yy",},
+    {"name":"spr_pocion_mana","order":6,"path":"sprites/spr_pocion_mana/spr_pocion_mana.yy",},
+    {"name":"spr_rodela","order":7,"path":"sprites/spr_rodela/spr_rodela.yy",},
   ],
 }
