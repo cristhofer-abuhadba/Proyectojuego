@@ -76,3 +76,30 @@ if(CantidadVida == 0){
 	show_debug_message("El personaje ha muerto. Juego pausado");
 	room_goto(Inicioo);
 }
+
+var rango_deteccion = 50; // Rango de detección (puedes ajustarlo)
+
+hostil_cerca = false;  // Restablecer la variable al inicio del paso
+
+// Recorre todas las instancias de hostiles
+with (obj_hostil) {
+    // Calcula la distancia entre el jugador y el hostil
+    var distancia = point_distance(humano_player.x, humano_player.y, x, y);
+    
+    // Si la distancia es menor o igual al rango de detección
+    if (distancia <= rango_deteccion) {
+        hostil_cerca = true; // El hostil está cerca
+    }
+}
+
+// Si el hostil está cerca y se presiona la tecla 0, aplicamos daño
+if (hostil_cerca && keyboard_check_pressed(vk_numpad0)) {
+    // Recorre todas las instancias de hostiles nuevamente
+    with (obj_hostil) {
+        // Aplica daño al hostil
+        cant_vida -= 1;
+
+        // Mostrar mensaje de depuración
+        show_debug_message("Hostil recibió -1 de daño");
+    }
+}

@@ -7,6 +7,32 @@ if(instance_exists(elf_player)){
 	
 	if(cant_vida == 0){
 		show_debug_message("El Hostil ha muerto. Juego pausado");
+		
+		var rand = irandom(100); //numero aleatorio entre 0 y 100
+		if(rand < 30){
+			instance_create_layer(x, y, layer, escudo_lethor);
+		}
+		else if(rand < 40){
+			var sub_rand = irandom(1);
+			
+			if(sub_rand == 0){
+				instance_create_layer(x, y, layer, pocion);
+			}
+			else{
+				instance_create_layer(x, y, layer, pocion_mana);
+			}
+		}
+		else if(rand < 60){
+			var sub_rand = irandom(1);
+			
+			if(sub_rand == 0){
+				instance_create_layer(x, y, layer, espada_netherite);
+			}
+			else{
+				instance_create_layer(x, y, layer, escudo_tortuga);
+			}
+		}
+		
 		instance_deactivate_object(obj_hostil);
 	}
 	
@@ -400,7 +426,7 @@ if(instance_exists(humano_player)){
 			if(abs(direccion_01 - direccion) > 0){
 				show_debug_message("rozando con personaje");
 				if(tiempo_dano >= intervalo_dano){
-					humano_player.CantidadVidaa -= 1;
+					humano_player.CantidadVida -= 1;
 					show_debug_message("El personaje ha recibido 1 punto de daño.");
 		
 					tiempo_dano = 0;
