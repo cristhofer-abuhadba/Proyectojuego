@@ -16,3 +16,8 @@ CantidadVida = VidaMaxima;
 
 EstaminaMaxima=30;
 CantidadEstamina = EstaminaMaxima;
+
+weapon={
+	sprite:spr_baculo_sagrado,
+	angle:0
+};

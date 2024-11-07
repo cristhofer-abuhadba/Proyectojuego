@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -97,6 +97,7 @@
     {"id":{"name":"obj_hostil","path":"objects/obj_hostil/obj_hostil.yy",},},
     {"id":{"name":"obj_lanzador","path":"objects/obj_lanzador/obj_lanzador.yy",},},
     {"id":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},},
+    {"id":{"name":"obj_proyectil_1","path":"objects/obj_proyectil_1/obj_proyectil_1.yy",},},
     {"id":{"name":"obj_proyectil","path":"objects/obj_proyectil/obj_proyectil.yy",},},
     {"id":{"name":"obj_spawn_hostil","path":"objects/obj_spawn_hostil/obj_spawn_hostil.yy",},},
     {"id":{"name":"obj_spawn_lanzador","path":"objects/obj_spawn_lanzador/obj_spawn_lanzador.yy",},},
@@ -121,6 +122,7 @@
     {"id":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
+    {"id":{"name":"Arma_movimiento","path":"scripts/Arma_movimiento/Arma_movimiento.yy",},},
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
     {"id":{"name":"snd_breaking","path":"sounds/snd_breaking/snd_breaking.yy",},},
     {"id":{"name":"snd_door_opening","path":"sounds/snd_door_opening/snd_door_opening.yy",},},

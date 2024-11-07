@@ -78,3 +78,4 @@ if(CantidadVida <= 0){
 	show_debug_message("El personaje ha muerto. Juego pausado");
 	room_goto(Inicioo);
 }
+Arma_movimiento();

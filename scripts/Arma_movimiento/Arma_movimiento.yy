@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Arma_movimiento",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Arma_movimiento",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

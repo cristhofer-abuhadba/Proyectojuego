@@ -5,6 +5,7 @@
     {"name":"escudo_lethor","order":3,"path":"objects/escudo_lethor/escudo_lethor.yy",},
     {"name":"escudo_tortuga","order":4,"path":"objects/escudo_tortuga/escudo_tortuga.yy",},
     {"name":"Madreobjetos","order":1,"path":"objects/Madreobjetos/Madreobjetos.yy",},
+    {"name":"obj_proyectil_1","order":8,"path":"objects/obj_proyectil_1/obj_proyectil_1.yy",},
     {"name":"pergamino","order":5,"path":"objects/pergamino/pergamino.yy",},
     {"name":"pocion_mana","order":6,"path":"objects/pocion_mana/pocion_mana.yy",},
     {"name":"rodela","order":7,"path":"objects/rodela/rodela.yy",},
