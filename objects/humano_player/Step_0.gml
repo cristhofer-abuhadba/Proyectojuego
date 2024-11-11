@@ -77,29 +77,39 @@ if(CantidadVida == 0){
 	room_goto(Inicioo);
 }
 
-var rango_deteccion = 50; // Rango de detección (puedes ajustarlo)
+// Buscar el hostil más cercano
+var hostil_cercano = instance_nearest(x, y, obj_hostil);
+var lanzador_cercano = instance_nearest(x, y, obj_lanzador);
 
-hostil_cerca = false;  // Restablecer la variable al inicio del paso
-
-// Recorre todas las instancias de hostiles
-with (obj_hostil) {
-    // Calcula la distancia entre el jugador y el hostil
-    var distancia = point_distance(humano_player.x, humano_player.y, x, y);
+// Verificar si el hostil cercano existe
+if (hostil_cercano != noone || lanzador_cercano != noone) {
+	
+    // Obtener las coordenadas del hostil cercano
+	if(hostil_cercano != noone){
+		var x_hostil = hostil_cercano.x;
+		var y_hostil = hostil_cercano.y;
+	} else {
+		var x_hostil = lanzador_cercano.x;
+		var y_hostil = lanzador_cercano.y;
+	}
     
-    // Si la distancia es menor o igual al rango de detección
-    if (distancia <= rango_deteccion) {
-        hostil_cerca = true; // El hostil está cerca
+    // Calcular la distancia entre el personaje y el hostil cercano
+    var distancia = point_distance(x, y, x_hostil, y_hostil);
+    
+    // Si la distancia es menor o igual a 100 px
+    if (distancia <= 100) {
+        // Verificar si se ha hecho clic izquierdo
+        if (mouse_check_button_pressed(mb_left)) {
+            // Aplicar daño al hostil cercano
+			if(hostil_cercano != noone){
+				hostil_cercano.cant_vida -= 1; // O el valor de daño que desees
+				show_debug_message("El hostil más cercano ha recibido 1 punto de daño.");
+			}
+			else if(lanzador_cercano != noone){
+				lanzador_cercano.cant_vida -= 1; // O el valor de daño que desees
+				show_debug_message("El lanzador más cercano ha recibido 1 punto de daño.");
+			}
+        }
     }
 }
 
-// Si el hostil está cerca y se presiona la tecla 0, aplicamos daño
-if (hostil_cerca && keyboard_check_pressed(vk_numpad0)) {
-    // Recorre todas las instancias de hostiles nuevamente
-    with (obj_hostil) {
-        // Aplica daño al hostil
-        cant_vida -= 1;
-
-        // Mostrar mensaje de depuración
-        show_debug_message("Hostil recibió -1 de daño");
-    }
-}

@@ -78,4 +78,40 @@ if(CantidadVida <= 0){
 	show_debug_message("El personaje ha muerto. Juego pausado");
 	room_goto(Inicioo);
 }
+
+// Buscar el hostil más cercano
+var hostil_cercano = instance_nearest(x, y, obj_hostil);
+var lanzador_cercano = instance_nearest(x, y, obj_lanzador);
+
+// Verificar si el hostil cercano existe
+if (hostil_cercano != noone || lanzador_cercano != noone) {
+	
+    // Obtener las coordenadas del hostil cercano
+	if(hostil_cercano != noone){
+		var x_hostil = hostil_cercano.x;
+		var y_hostil = hostil_cercano.y;
+	} else {
+		var x_hostil = lanzador_cercano.x;
+		var y_hostil = lanzador_cercano.y;
+	}
+    
+    // Calcular la distancia entre el personaje y el hostil cercano
+    var distancia = point_distance(x, y, x_hostil, y_hostil);
+    
+    // Si la distancia es menor o igual a 100 px
+    if (distancia <= 100) {
+        // Verificar si se ha hecho clic izquierdo
+        if (mouse_check_button_pressed(mb_left)) {
+            // Aplicar daño al hostil cercano
+			if(hostil_cercano != noone){
+				hostil_cercano.cant_vida -= 1; // O el valor de daño que desees
+				show_debug_message("El hostil más cercano ha recibido 1 punto de daño.");
+			}
+			else if(lanzador_cercano != noone){
+				lanzador_cercano.cant_vida -= 1; // O el valor de daño que desees
+				show_debug_message("El lanzador más cercano ha recibido 1 punto de daño.");
+			}
+        }
+    }
+}
 Arma_movimiento();
