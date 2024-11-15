@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Enano",
-    "path":"sprites/Enano/Enano.yy",
+    "name":"marco_2",
+    "path":"sprites/marco_2/marco_2.yy",
   },
   "spriteMaskId":{
     "name":"Elfo",

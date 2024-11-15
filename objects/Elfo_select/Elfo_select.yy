@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Elfo",
-    "path":"sprites/Elfo/Elfo.yy",
+    "name":"marco",
+    "path":"sprites/marco/marco.yy",
   },
   "spriteMaskId":{
     "name":"Elfo",

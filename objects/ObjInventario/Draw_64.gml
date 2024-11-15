@@ -10,7 +10,7 @@ if (open) {
     var slot_height = sprite_get_height(Slots) * slot_scale;
 
     // Parámetro para ajustar el escalado del objeto
-    var custom_object_scale = 1.3; // Puedes ajustar esta variable para escalar los objetos dentro del slot
+    var custom_object_scale = 0.8; // Puedes ajustar esta variable para escalar los objetos dentro del slot
 
     // Efecto de vibración si el inventario está lleno
     var vibracion_x = 0;
