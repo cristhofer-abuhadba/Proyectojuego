@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"introobj",
-    "path":"folders/Objetos/introobj.yy",
+    "path":"folders/Objetos/Menu/introobj.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -111,4 +111,6 @@ if (hostil_cercano != noone || lanzador_cercano != noone) {
 			}
         }
     }
+	scrPlayerWeaponUpdate();
+scrPlayerWeaponSwitch();
 }

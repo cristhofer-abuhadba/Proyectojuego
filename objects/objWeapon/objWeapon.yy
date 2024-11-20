@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"tormenta_gelida",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objWeapon",
+  "eventList":[],
   "managed":true,
-  "name":"tormenta_gelida",
+  "name":"objWeapon",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"armas",
+    "path":"folders/Objetos/armas.yy",
   },
-  "parentObjectId":{
-    "name":"Madreobjetos",
-    "path":"objects/Madreobjetos/Madreobjetos.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_tormenta_gelida",
-    "path":"sprites/spr_tormenta_gelida/spr_tormenta_gelida.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

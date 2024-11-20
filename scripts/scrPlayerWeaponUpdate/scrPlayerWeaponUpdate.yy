@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Arma_movimiento",
+  "%Name":"scrPlayerWeaponUpdate",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Arma_movimiento",
+  "name":"scrPlayerWeaponUpdate",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

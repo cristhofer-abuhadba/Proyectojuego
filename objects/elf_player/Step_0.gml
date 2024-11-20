@@ -114,4 +114,5 @@ if (hostil_cercano != noone || lanzador_cercano != noone) {
         }
     }
 }
-Arma_movimiento();
+scrPlayerWeaponUpdate();
+scrPlayerWeaponSwitch();
