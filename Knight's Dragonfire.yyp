@@ -103,6 +103,7 @@
     {"id":{"name":"pantallcompleta","path":"objects/pantallcompleta/pantallcompleta.yy",},},
     {"id":{"name":"pilares","path":"objects/pilares/pilares.yy",},},
     {"id":{"name":"pocion_1","path":"objects/pocion_1/pocion_1.yy",},},
+    {"id":{"name":"pocion_estamina","path":"objects/pocion_estamina/pocion_estamina.yy",},},
     {"id":{"name":"pocion","path":"objects/pocion/pocion.yy",},},
     {"id":{"name":"puerta_intro","path":"objects/puerta_intro/puerta_intro.yy",},},
     {"id":{"name":"selecionado","path":"objects/selecionado/selecionado.yy",},},

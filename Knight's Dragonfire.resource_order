@@ -13,6 +13,7 @@
     {"name":"Humano_select","order":2,"path":"objects/Humano_select/Humano_select.yy",},
     {"name":"obj_proyectil_1","order":8,"path":"objects/obj_proyectil_1/obj_proyectil_1.yy",},
     {"name":"objWeapon","order":6,"path":"objects/objWeapon/objWeapon.yy",},
+    {"name":"pocion_estamina","order":9,"path":"objects/pocion_estamina/pocion_estamina.yy",},
     {"name":"pocion","order":7,"path":"objects/pocion/pocion.yy",},
     {"name":"Titulo_seleccion","order":8,"path":"objects/Titulo_seleccion/Titulo_seleccion.yy",},
     {"name":"transitionb","order":6,"path":"objects/transitionb/transitionb.yy",},

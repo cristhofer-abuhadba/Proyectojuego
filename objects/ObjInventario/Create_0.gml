@@ -19,7 +19,7 @@ display_set_gui_size(800, 600); // Ajusta esto según tu resolución deseada
 display_set_gui_maximize(false, false); // Desactiva la maximización automática
 
 // Configuración inicial del inventario
-open = false; // El inventario comienza cerrado
+open = true; // El inventario comienza cerrado
 SloT = 10; // Número de slots
 slot = array_create(SloT); // Crear un array para almacenar los datos de los slots
 l = 17; // Distancia entre los slots

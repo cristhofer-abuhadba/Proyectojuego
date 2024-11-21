@@ -46,6 +46,8 @@
     {"name":"inst_1084ED26","path":"rooms/Prueba/Prueba.yy",},
     {"name":"inst_1E45F844","path":"rooms/Prueba/Prueba.yy",},
     {"name":"inst_130E51EF","path":"rooms/Prueba/Prueba.yy",},
+    {"name":"inst_21DD21E5","path":"rooms/Prueba/Prueba.yy",},
+    {"name":"inst_C4E7CB0","path":"rooms/Prueba/Prueba.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -91,6 +93,8 @@
         {"$GMRInstance":"v1","%Name":"inst_1084ED26","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1084ED26","objectId":{"name":"pocion","path":"objects/pocion/pocion.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":352.0,},
         {"$GMRInstance":"v1","%Name":"inst_1E45F844","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1E45F844","objectId":{"name":"pocion","path":"objects/pocion/pocion.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":288.0,},
         {"$GMRInstance":"v1","%Name":"inst_130E51EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_130E51EF","objectId":{"name":"arco","path":"objects/arco/arco.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":192.0,},
+        {"$GMRInstance":"v1","%Name":"inst_21DD21E5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_21DD21E5","objectId":{"name":"pocion_estamina","path":"objects/pocion_estamina/pocion_estamina.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":224.0,},
+        {"$GMRInstance":"v1","%Name":"inst_C4E7CB0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_C4E7CB0","objectId":{"name":"pocion_estamina","path":"objects/pocion_estamina/pocion_estamina.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":320.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":25,"SerialiseWidth":25,"TileCompressedData":[
           -25,10,1,16,-23,13,2,17,14,-8,-2147483648,-2,2,1,3,-12,-2147483648,2,15,14,-6,-2147483648,-2,1,5,12,

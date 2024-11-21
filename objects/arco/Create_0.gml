@@ -16,7 +16,7 @@ player = humano_player;
 weapon = {
 	sprite: sprite_index,
 	object: object_index,
-	ammo: 10,
-	maxAmmo: 10,
-	frequency: room_speed / 6
+	ammo: 30,
+	maxAmmo: 30,
+	frequency: room_speed / 9
 };

@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"ObjInventario",
+  "%Name":"pocion_estamina",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":85,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ObjInventario",
+  "name":"pocion_estamina",
   "overriddenProperties":[],
   "parent":{
-    "name":"camara",
-    "path":"folders/Objetos/camara.yy",
+    "name":"armas",
+    "path":"folders/Objetos/armas.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_pocion_mana",
+    "path":"sprites/spr_pocion_mana/spr_pocion_mana.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
