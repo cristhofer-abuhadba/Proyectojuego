@@ -1,14 +1,14 @@
 sec = 0;
 time = 5; //cada cuantos segundos aparece el hostil
 
-spawn_generado_lanzador = 0;
-spawn_generado_hostil = 0;
+spawn_hostiles_generado = 0; 
+max_spawn_hostiles = 5; //maxima cantidad a generar
 
-max_spawn_hostil = 5; //maxima cantidad a generar
-max_spawn_lanzador = 5;
+spawn_hostiles_room = 0;
+max_spawn_hostiles_room = 5;
 
-spawn_hostil_room = 0;
-spawn_lanzador_room = 0;
+spawn_lanzadores_generado = 0; 
+max_spawn_lanzadores = 5; //maxima cantidad a generar
 
-max_spawn_hostil_room = 2;
-max_spawn_lanzador_room = 2;
+spawn_lanzadores_room = 0;
+max_spawn_lanzadores_room = 5;

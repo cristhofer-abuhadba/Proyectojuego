@@ -26,7 +26,7 @@ if(instance_exists(elf_player)){
 		instance_destroy();
 	}
 	
-	if(distancia <= 300){
+	if(distancia <= 600){
 		
 		var deslizar = true;
 		var deslizamientos = [0, 90, 180, 270];
@@ -179,7 +179,7 @@ if(instance_exists(enano_player)){
 		instance_destroy();
 	}
 	
-	if(distancia <= 300){
+	if(distancia <= 600){
 		
 		var deslizar = true;
 		var deslizamientos = [0, 90, 180, 270];
@@ -332,7 +332,7 @@ if(instance_exists(humano_player)){
 		instance_destroy();
 	}
 	
-	if(distancia <= 300){
+	if(distancia <= 600){
 		
 		var deslizar = true;
 		var deslizamientos = [0, 90, 180, 270];
