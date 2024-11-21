@@ -9,28 +9,18 @@ if(instance_exists(elf_player)){
 		show_debug_message("El Hostil ha muerto. Juego pausado");
 		
 		var rand = irandom(100); //numero aleatorio entre 0 y 100
-		if(rand < 10){
-			instance_create_layer(x, y, layer, escudo_lethor);
-		}
-		else if(rand < 30){
+		if(rand < 30){
 			var sub_rand = irandom(1);
 			
 			if(sub_rand == 0){
 				instance_create_layer(x, y, layer, pocion);
 			}
 			else{
-				instance_create_layer(x, y, layer, pocion_mana);
+				instance_create_layer(x, y, layer, pocion_estamina);
 			}
 		}
 		else if(rand < 60){
-			var sub_rand = irandom(1);
-			
-			if(sub_rand == 0){
-				instance_create_layer(x, y, layer, espada_netherite);
-			}
-			else{
-				instance_create_layer(x, y, layer, escudo_tortuga);
-			}
+			instance_create_layer(x, y, layer, arco);
 		}
 		
 		instance_destroy();
