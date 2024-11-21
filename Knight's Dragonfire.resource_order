@@ -4,8 +4,8 @@
     {"name":"introobj","order":9,"path":"folders/Objetos/Menu/introobj.yy",},
     {"name":"araña","order":3,"path":"folders/Sprites/Hostiles/araña.yy",},
     {"name":"gargola","order":4,"path":"folders/Sprites/Hostiles/gargola.yy",},
-    {"name":"murcielago","order":5,"path":"folders/Sprites/Hostiles/murcielago.yy",},
     {"name":"hada","order":2,"path":"folders/Sprites/Hostiles/hada.yy",},
+    {"name":"murcielago","order":5,"path":"folders/Sprites/Hostiles/murcielago.yy",},
     {"name":"slime","order":1,"path":"folders/Sprites/Hostiles/slime.yy",},
   ],
   "ResourceOrderSettings":[
@@ -25,6 +25,7 @@
     {"name":"transitionb","order":6,"path":"objects/transitionb/transitionb.yy",},
     {"name":"scrPlayerWeaponSwitch","order":1,"path":"scripts/scrPlayerWeaponSwitch/scrPlayerWeaponSwitch.yy",},
     {"name":"Cartel","order":4,"path":"sprites/Cartel/Cartel.yy",},
+    {"name":"game_title","order":6,"path":"sprites/game_title/game_title.yy",},
     {"name":"marco_1","order":2,"path":"sprites/marco_1/marco_1.yy",},
     {"name":"marco_2","order":3,"path":"sprites/marco_2/marco_2.yy",},
     {"name":"marco_3","order":5,"path":"sprites/marco_3/marco_3.yy",},
