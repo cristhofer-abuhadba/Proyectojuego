@@ -48,4 +48,6 @@ if(hostiles_generado < max_hostiles && hostiles_room < max_hostiles_room){
 		}
 	
 	}
+} else {
+	instance_destroy();
 }
