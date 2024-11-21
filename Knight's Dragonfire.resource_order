@@ -12,6 +12,7 @@
     {"name":"Elfo_select","order":5,"path":"objects/Elfo_select/Elfo_select.yy",},
     {"name":"Humano_select","order":2,"path":"objects/Humano_select/Humano_select.yy",},
     {"name":"obj_proyectil_1","order":8,"path":"objects/obj_proyectil_1/obj_proyectil_1.yy",},
+    {"name":"obj_ronda","order":10,"path":"objects/obj_ronda/obj_ronda.yy",},
     {"name":"objWeapon","order":6,"path":"objects/objWeapon/objWeapon.yy",},
     {"name":"pocion_estamina","order":9,"path":"objects/pocion_estamina/pocion_estamina.yy",},
     {"name":"pocion","order":7,"path":"objects/pocion/pocion.yy",},

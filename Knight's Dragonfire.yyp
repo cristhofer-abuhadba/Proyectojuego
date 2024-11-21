@@ -95,6 +95,7 @@
     {"id":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},},
     {"id":{"name":"obj_proyectil_1","path":"objects/obj_proyectil_1/obj_proyectil_1.yy",},},
     {"id":{"name":"obj_proyectil","path":"objects/obj_proyectil/obj_proyectil.yy",},},
+    {"id":{"name":"obj_ronda","path":"objects/obj_ronda/obj_ronda.yy",},},
     {"id":{"name":"obj_spawn_hostil","path":"objects/obj_spawn_hostil/obj_spawn_hostil.yy",},},
     {"id":{"name":"obj_spawn_lanzador","path":"objects/obj_spawn_lanzador/obj_spawn_lanzador.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
