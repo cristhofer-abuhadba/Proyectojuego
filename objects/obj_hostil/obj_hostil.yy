@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_hostil",
-    "path":"sprites/Spr_hostil/Spr_hostil.yy",
+    "name":"SPR_arana_grande_standing",
+    "path":"sprites/SPR_arana_grande_standing/SPR_arana_grande_standing.yy",
   },
   "spriteMaskId":null,
   "visible":true,

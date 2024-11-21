@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_lanzador",
-    "path":"sprites/Spr_lanzador/Spr_lanzador.yy",
+    "name":"SPRhada_r",
+    "path":"sprites/SPRhada_r/SPRhada_r.yy",
   },
   "spriteMaskId":null,
   "visible":true,

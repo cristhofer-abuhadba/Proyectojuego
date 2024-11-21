@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"enano_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object42",
+  "eventList":[],
   "managed":true,
-  "name":"enano_player",
+  "name":"Object42",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Objetos/Player.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"madre",
-    "path":"objects/madre/madre.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SPRenano",
-    "path":"sprites/SPRenano/SPRenano.yy",
+    "name":"game_title",
+    "path":"sprites/game_title/game_title.yy",
   },
   "spriteMaskId":null,
   "visible":true,

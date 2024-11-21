@@ -70,7 +70,7 @@ if (velocidad == 4) {
 }
 
 
-CantidadEstamina = clamp(CantidadEstamina, 2, EstaminaMaxima);
+CantidadEstamina = clamp(CantidadEstamina, 1, EstaminaMaxima);
 
 if(CantidadVida == 0){
 	show_debug_message("El personaje ha muerto. Juego pausado");

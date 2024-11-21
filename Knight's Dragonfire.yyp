@@ -72,7 +72,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Knight's Dragonfire",
   "resources":[
@@ -105,9 +105,11 @@
     {"id":{"name":"obj_spawn_hostil","path":"objects/obj_spawn_hostil/obj_spawn_hostil.yy",},},
     {"id":{"name":"obj_spawn_lanzador","path":"objects/obj_spawn_lanzador/obj_spawn_lanzador.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"Object42","path":"objects/Object42/Object42.yy",},},
     {"id":{"name":"ObjInventario","path":"objects/ObjInventario/ObjInventario.yy",},},
     {"id":{"name":"objWeapon","path":"objects/objWeapon/objWeapon.yy",},},
     {"id":{"name":"pantallcompleta","path":"objects/pantallcompleta/pantallcompleta.yy",},},
+    {"id":{"name":"pausa","path":"objects/pausa/pausa.yy",},},
     {"id":{"name":"pilares","path":"objects/pilares/pilares.yy",},},
     {"id":{"name":"pocion_1","path":"objects/pocion_1/pocion_1.yy",},},
     {"id":{"name":"pocion_estamina","path":"objects/pocion_estamina/pocion_estamina.yy",},},
@@ -124,6 +126,7 @@
     {"id":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
+    {"id":{"name":"win","path":"rooms/win/win.yy",},},
     {"id":{"name":"scrPlayerWeaponSwitch","path":"scripts/scrPlayerWeaponSwitch/scrPlayerWeaponSwitch.yy",},},
     {"id":{"name":"scrPlayerWeaponUpdate","path":"scripts/scrPlayerWeaponUpdate/scrPlayerWeaponUpdate.yy",},},
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
@@ -259,6 +262,7 @@
     {"roomId":{"name":"Inicioo","path":"rooms/Inicioo/Inicioo.yy",},},
     {"roomId":{"name":"Prueba","path":"rooms/Prueba/Prueba.yy",},},
     {"roomId":{"name":"Elecc_Pers","path":"rooms/Elecc_Pers/Elecc_Pers.yy",},},
+    {"roomId":{"name":"win","path":"rooms/win/win.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

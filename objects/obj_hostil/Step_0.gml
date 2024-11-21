@@ -27,7 +27,7 @@ if(instance_exists(elf_player)){
 	}
 	
 	if(distancia <= 600){
-		
+		 sprite_index = SPR_arana_grande; 
 		var deslizar = true;
 		var deslizamientos = [0, 90, 180, 270];
 		var mejor_direccion = direccion;
